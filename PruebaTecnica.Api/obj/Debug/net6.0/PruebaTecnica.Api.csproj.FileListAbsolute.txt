@@ -70,6 +70,7 @@ C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Api\obj\Debug\net6.0
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Api\obj\Debug\net6.0\PruebaTecnica.Api.csproj.CoreCompileInputs.cache
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Api\obj\Debug\net6.0\PruebaTecnica.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Api\obj\Debug\net6.0\PruebaTecnica.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Api\obj\Debug\net6.0\PruebaTecnica.Api.sourcelink.json
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Api\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Api\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Api\obj\Debug\net6.0\staticwebassets\msbuild.PruebaTecnica.Api.Microsoft.AspNetCore.StaticWebAssets.props

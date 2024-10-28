@@ -194,6 +194,41 @@
 						"url": "http://localhost:7236/api/Cuenta/5"
 					},
 					"response": []
+				},
+				{
+					"name": "ReporteCuenta",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:7236/api/Cuenta/reportes?clienteId=2&fechaInicio=2024-10-26&fechaFin=2024-10-26",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "7236",
+							"path": [
+								"api",
+								"Cuenta",
+								"reportes"
+							],
+							"query": [
+								{
+									"key": "clienteId",
+									"value": "2"
+								},
+								{
+									"key": "fechaInicio",
+									"value": "2024-10-26"
+								},
+								{
+									"key": "fechaFin",
+									"value": "2024-10-26"
+								}
+							]
+						}
+					},
+					"response": []
 				}
 			]
 		},

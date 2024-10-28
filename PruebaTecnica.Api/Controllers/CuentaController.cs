@@ -64,11 +64,11 @@ namespace PruebaTecnica.Api.Controllers
         //Reportes
 
         [HttpGet("reportes")]
-        public async Task<IActionResult> ReporteEstadoCuentaAsync([FromQuery] int clienteId, [FromQuery] DateTime fechaInicio, [FromQuery] DateTime fechaFin, int idPersona)
+        public async Task<IActionResult> ReporteEstadoCuentaAsync([FromQuery] int clienteId, [FromQuery] DateTime fechaInicio, [FromQuery] DateTime fechaFin)
         {
             try
             {
-                var reporte = await _cuentaService.GenerarReporteEstadoCuentaAsync(clienteId, fechaInicio, fechaFin,idPersona);
+                var reporte = await _cuentaService.GenerarReporteEstadoCuentaAsync(clienteId, fechaInicio, fechaFin);
                 return Ok(reporte);
             }
             catch (KeyNotFoundException ex)

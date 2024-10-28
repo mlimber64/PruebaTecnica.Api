@@ -50,10 +50,11 @@ namespace PruebaTecnica.Application.ServiceImpl
             return await _context.cuenta.FindAsync(id);
         }
 
-        public async Task<ReporteEstadoCuentaDto> GenerarReporteEstadoCuentaAsync(int clienteId, DateTime fechaInicio, DateTime fechaFin, int personaId)
+        public async Task<ReporteEstadoCuentaDto> GenerarReporteEstadoCuentaAsync(int clienteId, DateTime fechaInicio, DateTime fechaFin)
         {
             var cliente = await _context.cliente.FindAsync(clienteId);
-            var persona = await _context.persona.FindAsync(personaId);
+
+
             if (cliente == null)
             {
                 throw new KeyNotFoundException("Cliente no encontrado.");
@@ -63,10 +64,10 @@ namespace PruebaTecnica.Application.ServiceImpl
                 .Where(c => c.ClienteId == clienteId)
                 .ToListAsync();
 
+
             var estadoCuenta = new ReporteEstadoCuentaDto
             {
                 ClienteId = cliente.ClienteId,
-                NombreCliente = persona.Nombre
             };
 
             foreach (var cuenta in cuentas)

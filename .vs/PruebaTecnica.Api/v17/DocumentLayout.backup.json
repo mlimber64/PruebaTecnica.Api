@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\limbe\\source\\repos\\PruebaTecnica.Api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F33DB2-1B2C-4ECA-AD0C-438B6B5350A2}|PruebaTecnica.Api\\PruebaTecnica.Api.csproj|c:\\users\\limbe\\source\\repos\\pruebatecnica.api\\pruebatecnica.api\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F33DB2-1B2C-4ECA-AD0C-438B6B5350A2}|PruebaTecnica.Api\\PruebaTecnica.Api.csproj|solutionrelative:pruebatecnica.api\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424BA685-BB29-40DC-BDC8-F5B44268B6EC}|PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj|c:\\users\\limbe\\source\\repos\\pruebatecnica.api\\pruebatecnica.domain\\dtos\\reporteestadocuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424BA685-BB29-40DC-BDC8-F5B44268B6EC}|PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj|solutionrelative:pruebatecnica.domain\\dtos\\reporteestadocuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4531B51-DBB3-4E9C-B05B-E75BC99DE8E9}|PruebaTecnica.Application\\PruebaTecnica.Application.csproj|c:\\users\\limbe\\source\\repos\\pruebatecnica.api\\pruebatecnica.application\\service\\icuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4531B51-DBB3-4E9C-B05B-E75BC99DE8E9}|PruebaTecnica.Application\\PruebaTecnica.Application.csproj|solutionrelative:pruebatecnica.application\\service\\icuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4531B51-DBB3-4E9C-B05B-E75BC99DE8E9}|PruebaTecnica.Application\\PruebaTecnica.Application.csproj|c:\\users\\limbe\\source\\repos\\pruebatecnica.api\\pruebatecnica.application\\serviceimpl\\cuentaserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4531B51-DBB3-4E9C-B05B-E75BC99DE8E9}|PruebaTecnica.Application\\PruebaTecnica.Application.csproj|solutionrelative:pruebatecnica.application\\serviceimpl\\cuentaserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424BA685-BB29-40DC-BDC8-F5B44268B6EC}|PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj|c:\\users\\limbe\\source\\repos\\pruebatecnica.api\\pruebatecnica.domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424BA685-BB29-40DC-BDC8-F5B44268B6EC}|PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj|solutionrelative:pruebatecnica.domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424BA685-BB29-40DC-BDC8-F5B44268B6EC}|PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj|c:\\users\\limbe\\source\\repos\\pruebatecnica.api\\pruebatecnica.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424BA685-BB29-40DC-BDC8-F5B44268B6EC}|PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj|solutionrelative:pruebatecnica.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\limbe\\source\\repos\\PruebaTecnica.Api\\PruebaTecnica.Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Domain\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\limbe\\source\\repos\\PruebaTecnica.Api\\PruebaTecnica.Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "PruebaTecnica.Domain\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:10:00.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\limbe\\source\\repos\\PruebaTecnica.Api\\PruebaTecnica.Domain\\Entities\\Persona.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Domain\\Entities\\Persona.cs",
+              "ToolTip": "C:\\Users\\limbe\\source\\repos\\PruebaTecnica.Api\\PruebaTecnica.Domain\\Entities\\Persona.cs",
+              "RelativeToolTip": "PruebaTecnica.Domain\\Entities\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:07:54.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICuentaService.cs",
+              "DocumentMoniker": "C:\\Users\\limbe\\source\\repos\\PruebaTecnica.Api\\PruebaTecnica.Application\\Service\\ICuentaService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Application\\Service\\ICuentaService.cs",
+              "ToolTip": "C:\\Users\\limbe\\source\\repos\\PruebaTecnica.Api\\PruebaTecnica.Application\\Service\\ICuentaService.cs",
+              "RelativeToolTip": "PruebaTecnica.Application\\Service\\ICuentaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:03:11.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuentaServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\limbe\\source\\repos\\PruebaTecnica.Api\\PruebaTecnica.Application\\ServiceImpl\\CuentaServiceImpl.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Application\\ServiceImpl\\CuentaServiceImpl.cs",
+              "ToolTip": "C:\\Users\\limbe\\source\\repos\\PruebaTecnica.Api\\PruebaTecnica.Application\\ServiceImpl\\CuentaServiceImpl.cs",
+              "RelativeToolTip": "PruebaTecnica.Application\\ServiceImpl\\CuentaServiceImpl.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwDYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:59:12.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReporteEstadoCuentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\limbe\\source\\repos\\PruebaTecnica.Api\\PruebaTecnica.Domain\\Dtos\\ReporteEstadoCuentaDto.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Domain\\Dtos\\ReporteEstadoCuentaDto.cs",
+              "ToolTip": "C:\\Users\\limbe\\source\\repos\\PruebaTecnica.Api\\PruebaTecnica.Domain\\Dtos\\ReporteEstadoCuentaDto.cs",
+              "RelativeToolTip": "PruebaTecnica.Domain\\Dtos\\ReporteEstadoCuentaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:58:10.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuentaController.cs",
+              "DocumentMoniker": "C:\\Users\\limbe\\source\\repos\\PruebaTecnica.Api\\PruebaTecnica.Api\\Controllers\\CuentaController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Api\\Controllers\\CuentaController.cs",
+              "ToolTip": "C:\\Users\\limbe\\source\\repos\\PruebaTecnica.Api\\PruebaTecnica.Api\\Controllers\\CuentaController.cs",
+              "RelativeToolTip": "PruebaTecnica.Api\\Controllers\\CuentaController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:53:37.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

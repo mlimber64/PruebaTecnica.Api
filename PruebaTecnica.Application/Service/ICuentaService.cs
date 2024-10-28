@@ -17,6 +17,6 @@ namespace PruebaTecnica.Application.Service
 
         //Reporte estado de cuenta
 
-        Task<ReporteEstadoCuentaDto> GenerarReporteEstadoCuentaAsync(int clienteId, DateTime fechaInicio, DateTime fechaFin, int personaId);
+        Task<ReporteEstadoCuentaDto> GenerarReporteEstadoCuentaAsync(int clienteId, DateTime fechaInicio, DateTime fechaFin);
     }
 }

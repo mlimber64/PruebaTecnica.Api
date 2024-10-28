@@ -8,6 +8,7 @@ C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Application\obj\Debu
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Application\obj\Debug\net6.0\PruebaTecnica.Application.AssemblyInfoInputs.cache
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Application\obj\Debug\net6.0\PruebaTecnica.Application.AssemblyInfo.cs
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Application\obj\Debug\net6.0\PruebaTecnica.Application.csproj.CoreCompileInputs.cache
+C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Application\obj\Debug\net6.0\PruebaTecnica.Application.sourcelink.json
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Application\obj\Debug\net6.0\PruebaTe.64F57996.Up2Date
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Application\obj\Debug\net6.0\PruebaTecnica.Application.dll
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Application\obj\Debug\net6.0\refint\PruebaTecnica.Application.dll

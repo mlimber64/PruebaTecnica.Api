@@ -3,7 +3,6 @@
     public class ReporteEstadoCuentaDto
     {
         public int ClienteId { get; set; }
-        public string? NombreCliente { get; set; }
         public List<CuentaReporteDto> Cuentas { get; set; } = new List<CuentaReporteDto>();
     }
 

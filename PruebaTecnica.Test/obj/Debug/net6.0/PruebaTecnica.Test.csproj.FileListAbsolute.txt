@@ -452,6 +452,7 @@ C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Test\obj\Debug\net6.
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Test\obj\Debug\net6.0\PruebaTecnica.Test.AssemblyInfoInputs.cache
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Test\obj\Debug\net6.0\PruebaTecnica.Test.AssemblyInfo.cs
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Test\obj\Debug\net6.0\PruebaTecnica.Test.csproj.CoreCompileInputs.cache
+C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Test\obj\Debug\net6.0\PruebaTecnica.Test.sourcelink.json
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Test\obj\Debug\net6.0\PruebaTe.BF4FCB51.Up2Date
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Test\obj\Debug\net6.0\PruebaTecnica.Test.dll
 C:\Users\limbe\source\repos\PruebaTecnica.Api\PruebaTecnica.Test\obj\Debug\net6.0\refint\PruebaTecnica.Test.dll
