@@ -63,7 +63,7 @@ namespace PruebaTecnica.Application.ServiceImpl
             return false;
         }
 
-        public async Task<IEnumerable<Movimiento>> GetMovientoAsync()
+        public async Task<IEnumerable<Movimiento>> GetMovimientoAsync()
         {
             return await _context.movimiento.ToListAsync();
         }

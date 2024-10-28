@@ -20,7 +20,7 @@ namespace PruebaTecnica.Api.Controllers
         [HttpGet]
         public async Task<IActionResult> ListarMovimiento()
         {
-            var movimientos = await _movimientoService.GetMovientoAsync();
+            var movimientos = await _movimientoService.GetMovimientoAsync();
             return Ok(movimientos);
         }
 

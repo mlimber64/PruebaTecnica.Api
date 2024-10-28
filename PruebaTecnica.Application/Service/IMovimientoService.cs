@@ -4,7 +4,7 @@ namespace PruebaTecnica.Application.Service
 {
     public interface IMovimientoService
     {
-        Task<IEnumerable<Movimiento>> GetMovientoAsync();
+        Task<IEnumerable<Movimiento>> GetMovimientoAsync();
 
         Task<Movimiento> GetMovimientoByIdAsync(int id);
 
